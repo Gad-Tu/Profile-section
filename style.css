@@ -1,0 +1,18 @@
+body{
+    background-image: url('svg/bg-pattern-bottom.svg');
+}
+.main-div{
+    background-image: url('svg/bg-pattern-top.svg');
+}
+
+.divone{
+    background-image: url('svg/bg-pattern-card.svg');
+    background-repeat: repeat;
+    padding: 0px 50px 50px 0px;
+    margin: 200px 500px 200px 500px; 
+    border-radius: 12px;
+}
+.image{
+     padding: 0px 120px 0px 120px;
+     margin: 20px 0px 20 0px;
+}
